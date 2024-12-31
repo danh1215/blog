@@ -1,0 +1,36 @@
+portfolioitems:
+  # portfolio category
+  - title: Tất cả các dự án của tôi
+    description: 'Những dự án tôi từng làm'
+    portfolioitem:
+      - name: Đồ án cơ sở
+        image: '/images/portfolio/danh2.jpg'
+        link: https://github.com/danh1215/DoAnCoSo-2024.git
+        linktext: 'My project'
+        description: 'Đây là website xem phim trực tuyến, người dùng có thể truy cập để tương tác, xem phim và tải phim Các công nghệ được sử dụng: NodeJs/ReactJs, JavaScript, MongoDB, FireBase,..
+                      Kết nối cơ sở dữ liệu
+                      Thiết kế và tạo các chức năng: Đăng nhập, Đăng ký, Playpage, Trang chủ, Bảng điều khiển quản trị,..
+                      Api qua PostMan
+                      '
+        tags:
+          - NodeJs
+          - ReactJs
+          - JavaScript
+          - MongoDB
+          - FireBase
+        status: 'Finished'
+        start: '04-2024'
+        end: '06-2024'
+        authors:
+          - Nguyễn Lê Thanh Danh
+  
+      - name: Đồ án chuyên ngành
+        image: '/images/portfolio/Picture1.jpg'
+        link: https://github.com/danh1215/DoAnChuyenNghanh-2024.git
+        description: 'Đây là 1 app dùng để xem phim giải trí cùng với sự phát triển của điện thoại di động tạo ra sự tiện lợi và thoải mái cho người dùng'
+        status: 'Finished'
+        tags:
+          
+          - React Native
+          - JavaScript
+          - FireBase

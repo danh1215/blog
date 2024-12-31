@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Course - Thumbnail on My blog</title>
+    <link>http://localhost:1313/tags/course---thumbnail/</link>
+    <description>Recent content in Course - Thumbnail on My blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 25 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/course---thumbnail/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Khóa Học Java - Bài 9</title>
+      <link>http://localhost:1313/post/java-course-9/</link>
+      <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/java-course-9/</guid>
+      
+        <description><h2 id="bài-9-xử-lý-ngoại-lệ">Bài 9: Xử lý ngoại lệ</h2>
+<p>Nội dung bài học:</p></description>
+      
+    </item>
+    
+    <item>
+      <title>Khóa Học Java - Bài 4</title>
+      <link>http://localhost:1313/post/java-course-4/</link>
+      <pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/java-course-4/</guid>
+      
+        <description><h2 id="bài-4-toán-tử-và-biểu-thức">Bài 4: Toán tử và biểu thức</h2>
+<p>Nội dung bài học:</p></description>
+      
+    </item>
+    
+    <item>
+      <title>Khóa Học Java - Bài 1</title>
+      <link>http://localhost:1313/post/figure-shortcode/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/figure-shortcode/</guid>
+      
+        <description><h2 id="bài-1-giới-thiệu-về-java">Bài 1: Giới thiệu về Java</h2>
+<p>Nội dung bài học:</p></description>
+      
+    </item>
+    
+  </channel>
+</rss>

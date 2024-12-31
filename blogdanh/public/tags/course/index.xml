@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Course on My blog</title>
+    <link>http://localhost:1313/tags/course/</link>
+    <description>Recent content in Course on My blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 24 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/course/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Khóa Học Java - Bài 8</title>
+      <link>http://localhost:1313/post/java-course-8/</link>
+      <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/java-course-8/</guid>
+      
+        <description><h2 id="bài-8-kế-thừa-và-đa-hình">Bài 8: Kế thừa và đa hình</h2>
+<p>Nội dung bài học:</p></description>
+      
+    </item>
+    
+    <item>
+      <title>Khóa Học Java - Bài 7</title>
+      <link>http://localhost:1313/post/java-course-7/</link>
+      <pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/java-course-7/</guid>
+      
+        <description><h2 id="bài-7-lập-trình-hướng-đối-tượng">Bài 7: Lập trình hướng đối tượng</h2>
+<p>Nội dung bài học:</p></description>
+      
+    </item>
+    
+    <item>
+      <title>Khóa Học Java - Bài 6</title>
+      <link>http://localhost:1313/post/java-course-6/</link>
+      <pubDate>Sun, 22 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/java-course-6/</guid>
+      
+        <description><h2 id="bài-6-mảng-và-chuỗi">Bài 6: Mảng và chuỗi</h2>
+<p>Nội dung bài học:</p>
+<ul>
+<li>Khai báo và sử dụng mảng</li>
+<li>Các phương thức xử lý mảng</li>
+<li>Làm việc với chuỗi</li>
+</ul></description>
+      
+    </item>
+    
+    <item>
+      <title>Khóa Học Java - Bài 5</title>
+      <link>http://localhost:1313/post/java-course-5/</link>
+      <pubDate>Sat, 21 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/java-course-5/</guid>
+      
+        <description><h2 id="bài-5-cấu-trúc-điều-khiển">Bài 5: Cấu trúc điều khiển</h2>
+<p>Nội dung bài học:</p></description>
+      
+    </item>
+    
+    <item>
+      <title>Khóa Học Java - Bài 3</title>
+      <link>http://localhost:1313/post/java-course-3/</link>
+      <pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/java-course-3/</guid>
+      
+        <description><h2 id="bài-3-biến-và-kiểu-dữ-liệu">Bài 3: Biến và kiểu dữ liệu</h2>
+<p>Nội dung bài học:</p></description>
+      
+    </item>
+    
+    <item>
+      <title>Khóa Học Java - Bài 2</title>
+      <link>http://localhost:1313/post/java-course-2/</link>
+      <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/java-course-2/</guid>
+      
+        <description><h2 id="bài-2-cấu-trúc-chương-trình-java">Bài 2: Cấu trúc chương trình Java</h2>
+<p>Nội dung bài học:</p></description>
+      
+    </item>
+    
+  </channel>
+</rss>

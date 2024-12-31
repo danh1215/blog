@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My blog</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on My blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 25 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Khóa Học Java - Bài 9</title>
+      <link>http://localhost:1313/post/java-course-9/</link>
+      <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/java-course-9/</guid>
+      
+        <description><h2 id="bài-9-xử-lý-ngoại-lệ">Bài 9: Xử lý ngoại lệ</h2>
+<p>Nội dung bài học:</p></description>
+      
+    </item>
+    
+    <item>
+      <title>Khóa Học Java - Bài 8</title>
+      <link>http://localhost:1313/post/java-course-8/</link>
+      <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/java-course-8/</guid>
+      
+        <description><h2 id="bài-8-kế-thừa-và-đa-hình">Bài 8: Kế thừa và đa hình</h2>
+<p>Nội dung bài học:</p></description>
+      
+    </item>
+    
+    <item>
+      <title>Khóa Học Java - Bài 7</title>
+      <link>http://localhost:1313/post/java-course-7/</link>
+      <pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/java-course-7/</guid>
+      
+        <description><h2 id="bài-7-lập-trình-hướng-đối-tượng">Bài 7: Lập trình hướng đối tượng</h2>
+<p>Nội dung bài học:</p></description>
+      
+    </item>
+    
+    <item>
+      <title>Khóa Học Java - Bài 6</title>
+      <link>http://localhost:1313/post/java-course-6/</link>
+      <pubDate>Sun, 22 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/java-course-6/</guid>
+      
+        <description><h2 id="bài-6-mảng-và-chuỗi">Bài 6: Mảng và chuỗi</h2>
+<p>Nội dung bài học:</p>
+<ul>
+<li>Khai báo và sử dụng mảng</li>
+<li>Các phương thức xử lý mảng</li>
+<li>Làm việc với chuỗi</li>
+</ul></description>
+      
+    </item>
+    
+    <item>
+      <title>Khóa Học Java - Bài 5</title>
+      <link>http://localhost:1313/post/java-course-5/</link>
+      <pubDate>Sat, 21 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/java-course-5/</guid>
+      
+        <description><h2 id="bài-5-cấu-trúc-điều-khiển">Bài 5: Cấu trúc điều khiển</h2>
+<p>Nội dung bài học:</p></description>
+      
+    </item>
+    
+    <item>
+      <title>Khóa Học Java - Bài 4</title>
+      <link>http://localhost:1313/post/java-course-4/</link>
+      <pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/java-course-4/</guid>
+      
+        <description><h2 id="bài-4-toán-tử-và-biểu-thức">Bài 4: Toán tử và biểu thức</h2>
+<p>Nội dung bài học:</p></description>
+      
+    </item>
+    
+    <item>
+      <title>Khóa Học Java - Bài 3</title>
+      <link>http://localhost:1313/post/java-course-3/</link>
+      <pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/java-course-3/</guid>
+      
+        <description><h2 id="bài-3-biến-và-kiểu-dữ-liệu">Bài 3: Biến và kiểu dữ liệu</h2>
+<p>Nội dung bài học:</p></description>
+      
+    </item>
+    
+    <item>
+      <title>Khóa Học Java - Bài 2</title>
+      <link>http://localhost:1313/post/java-course-2/</link>
+      <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/java-course-2/</guid>
+      
+        <description><h2 id="bài-2-cấu-trúc-chương-trình-java">Bài 2: Cấu trúc chương trình Java</h2>
+<p>Nội dung bài học:</p></description>
+      
+    </item>
+    
+    <item>
+      <title>Emoji Support</title>
+      <link>http://localhost:1313/post/emoji-support/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/emoji-support/</guid>
+      
+        <description><p>Emoji can be enabled in a Hugo project in a number of ways.</p></description>
+      
+    </item>
+    
+    <item>
+      <title>Khóa Học Java - Bài 1</title>
+      <link>http://localhost:1313/post/figure-shortcode/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/figure-shortcode/</guid>
+      
+        <description><h2 id="bài-1-giới-thiệu-về-java">Bài 1: Giới thiệu về Java</h2>
+<p>Nội dung bài học:</p></description>
+      
+    </item>
+    
+    <item>
+      <title>Phụ lục về Java</title>
+      <link>http://localhost:1313/post/notice-shortcode/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/notice-shortcode/</guid>
+      
+        <description><h2 id="khóa-học-java">Khóa Học Java</h2>
+<p>Phần này cung cấp thông tin về khóa học Java. Khóa học bao gồm các chủ đề sau:</p></description>
+      
+    </item>
+    
+    <item>
+      <title>Finished</title>
+      <link>http://localhost:1313/post/image-test/</link>
+      <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/image-test/</guid>
+      
+        <description>Sau khi hoàn thành được khoá học và đây là kết quả</description>
+      
+    </item>
+    
+    <item>
+      <title>Awards</title>
+      <link>http://localhost:1313/awards/</link>
+      <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/awards/</guid>
+      
+        <description>Hugo Awards, an annual literary award for the best science fiction or fantasy works</description>
+      
+    </item>
+    
+    <item>
+      <title>Chứng Chỉ</title>
+      <link>http://localhost:1313/certifications/</link>
+      <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/certifications/</guid>
+      
+        <description>Hugo Certifications</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/archives/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/contact/</guid>
+      
+        <description>Contact Page</description>
+      
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      
+        <description>Hugo, the world&#39;s fastest framework for building websites</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/imprint/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/imprint/</guid>
+      
+        <description><h1 id="nguyễn-lê-thanh-danh">Nguyễn Lê Thanh Danh</h1>
+<p>Thông tin tác của tác giả đã làm ra app</p></description>
+      
+    </item>
+    
+  </channel>
+</rss>
